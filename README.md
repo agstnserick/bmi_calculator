@@ -1,6 +1,4 @@
-# bootcamp_flutter
-
-week 1 bootcamp
+# BMI Calculator
 
 ## Getting Started
 
